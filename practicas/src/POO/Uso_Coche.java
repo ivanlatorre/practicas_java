@@ -8,7 +8,7 @@ public class Uso_Coche {
 		coche Renault=new coche(); // instanciar una clases, ejemplar de clase
 		
 		
-		System.out.println("Este coche tiene "+Renault.ruedas);
+		System.out.println("Este coche tiene "+Renault.ruedas+" ruedas ");
 		
 		
 	}

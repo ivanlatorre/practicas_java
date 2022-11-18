@@ -2,15 +2,15 @@ package POO;
 
 public class coche {
 
-	int ruedas;
+	private int ruedas;
 	
-	int largo;
+	private int largo;
 	
-	int ancho;
+	private int ancho;
 	
-	int motor;
+	private int motor;
 	
-	int peso;
+	private int peso;
 	
 	// metodo constructor
 	// da un estado inicial
